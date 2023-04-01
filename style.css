@@ -1,0 +1,41 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background-image: linear-gradient(rgb(31, 28, 28), rgb(71, 66, 66));
+    height: 100vh;
+    align-items: center;
+    color: white;
+    font-size: 50px;
+    margin-top: 10%;
+
+}
+
+input {
+    background-color: rgb(41, 156, 108);
+    border: none;
+    display: flex;
+    width: 9.5em;
+    height: 5.7vh;
+    margin-bottom: 1em;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.container {
+    display: block;
+    justify-content: space-around;
+    margin-top: 7%;
+    margin-left: 52%;
+    color: burlywood;
+}
+
+#soma {
+    color:  rgb(41, 156, 108);
+    border: none;
+}
+
+
+
+
